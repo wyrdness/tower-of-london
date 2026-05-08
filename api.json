@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/tower-of-london",
     "maintainers": [
       {
@@ -16,111 +16,293 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "tower-of-london",
-    "name": "Tower of London - Britain's Most Haunted Fortress",
-    "aliases": [],
-    "category": "LOCATION",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
+    "name": "Tower of London",
+    "aliases": [
+      { "name": "His Majesty's Royal Palace and Fortress of the Tower of London", "language": "English", "meaning": "Full official name" },
+      { "name": "The Tower", "language": "English" },
+      { "name": "White Tower", "language": "English", "meaning": "Original Norman keep at the centre of the complex" }
     ],
-    "status": "documented",
+    "category": "LOCATION",
+    "subcategory": "Haunted historic site / royal fortress",
+    "tags": [
+      "haunted-location",
+      "england",
+      "london",
+      "royal-fortress",
+      "execution-site",
+      "unesco",
+      "anne-boleyn",
+      "ghost-history"
+    ],
+    "status": "active",
     "description": {
-      "summary": "The **Tower of London** is a historic castle on the north bank of the River Thames in central London, England.",
-      "full": "The **Tower of London** is a historic castle on the north bank of the River Thames in central London, England. Founded in 1066 as part of the Norman Conquest, the Tower has served as royal residence, fortress, prison, place of execution, armory, treasury, menagerie, and home of the Crown Jewels. With nearly a thousand years of dark history—including countless executions, murders, tortures, and imprisonments—the Tower is considered one of the most haunted locations in Britain, if not the world. The fortress complex comprises the White Tower (the original Norman keep built by William the Conqueror), multiple towers, walls, and buildings added over centuries. The most famous paranormal phenomena include the ghost of Anne Boleyn (executed 1536), the Princes in the Tower (murdered 1483), and numerous other spectral figures associated with the Tower's grim past. Guards, staff, and visitors have reported apparitions, unexplained sounds, phantom smells, cold spots, and overwhelming feelings of dread in various locations throughout the complex. As a UNESCO World Heritage Site attracting over 2.7 million visitors annually, the Tower of London combines genuine historical significance with compelling ghost stories. Whether one believes in the paranormal or not, the weight of history—the centuries of human suffering, political intrigue, and violent death—creates an atmosphere unlike any other historical site in the world."
+      "summary": "A historic royal castle on the north bank of the Thames in London, founded in 1066 by William the Conqueror. With a millennium of executions, imprisonments, and political violence, it is among the most-reported haunted sites in the United Kingdom.",
+      "full": "The Tower of London is a complex of medieval defensive buildings on the north bank of the River Thames in central London, founded in 1066 by William the Conqueror after the Norman Conquest of England. The original White Tower keep was begun in 1078. Over its near-millennial history the Tower has served as royal residence, fortress, prison, place of execution, armoury, treasury, mint, menagerie, and home of the Crown Jewels. While only seven people were ever executed within the castle walls before the 20th century, 112 were executed at neighbouring Tower Hill across roughly four centuries. The Tower is the alleged site of the disappearance of the 'Princes in the Tower' - 12-year-old Edward V and his younger brother Richard, Duke of York - last seen publicly in June 1483. It is widely associated with the ghost of Anne Boleyn (executed 1536), with sightings recorded in the 19th and 20th centuries, and with one of the most-cited British apparition cases of all time: Edmund Lenthal Swifte's 1817 Jewel House encounter. Today managed as a UNESCO World Heritage Site (designated 1988) by Historic Royal Palaces, the Tower is guarded by Yeomen Warders and at least six ravens, and remains one of the most-visited paid attractions in the United Kingdom."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Named for the original White Tower keep built by William the Conqueror beginning in 1078; the larger complex grew around it.",
+      "meaning": "The fortified tower of London",
+      "first_use": "11th century"
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "LOCATION",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Haunted historic site",
+      "subtype": "Royal fortress / execution site",
+      "variant": "London"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "ghosts", "name": "Ghosts / apparitions", "relationship": "subset", "description": "Tower hauntings are a subset of ghost-apparition phenomena" },
+      { "id": "haunted-places", "name": "Haunted places", "relationship": "subset", "description": "Notable example of the haunted-place class" },
+      { "id": "white-lady", "name": "White Lady", "relationship": "related", "description": "White Lady apparitions are commonly reported across British castles" },
+      { "id": "headless-horseman", "name": "Headless apparition motif", "relationship": "related", "description": "Headless Anne Boleyn echoes broader headless-ghost motif" },
+      { "id": "stone-tape-theory", "name": "Stone Tape Theory", "relationship": "related", "description": "Frequently invoked to explain Tower hauntings" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "White Tower (Norman keep)", "description": "Central keep begun by William the Conqueror in 1078; the iconic Norman donjon", "frequency": "always" },
+        { "feature": "Curtain walls and towers", "description": "Two concentric defensive walls with multiple named towers (Bloody Tower, Bell Tower, Beauchamp Tower, etc.)", "frequency": "always" },
+        { "feature": "Tower Green", "description": "Inner ward where seven private executions took place before the 20th century", "frequency": "always" },
+        { "feature": "Crown Jewels in the Jewel House", "description": "Reportedly the site of Edmund Lenthal Swifte's 1817 apparition", "frequency": "always" }
+      ],
+      "morphology": "Concentric medieval castle complex of approximately 12 acres on the north bank of the Thames."
     },
     "abilities": [],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "variable",
+      "social_structure": "variable",
+      "habitat_preference": ["historic buildings"],
+      "diet": "Not applicable",
+      "patterns": [
+        "Apparitions clustered around named buildings (White Tower staircase, Bloody Tower, Jewel House, Tower Green)",
+        "Reports concentrate among Yeomen Warders and overnight staff",
+        "Paranormal reports increase around major historical anniversaries"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "A single fixed historic site of approximately 12 acres on the north bank of the Thames, central London.",
+      "continents": ["Europe"],
+      "countries": ["United Kingdom"],
+      "regions": ["England", "Greater London"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Tower of London",
+        "location": {
+          "description": "Tower of London, Tower Hill, London EC3N 4AB",
+          "country": "United Kingdom",
+          "region": "Greater London",
+          "coordinates": { "latitude": 51.5081, "longitude": -0.0759 }
+        },
+        "peak_period": "1066-present",
+        "notes": "Single-site phenomenon"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "1066",
+        "circa": false,
+        "source": "Norman Conquest of England"
+      },
+      "peak_activity_periods": [
+        { "period": "1483", "description": "Disappearance of the Princes in the Tower" },
+        { "period": "1536-1554", "description": "High-profile Tudor executions including Anne Boleyn (1536), Catherine Howard (1542), Lady Jane Grey (1554)" },
+        { "period": "1817", "description": "Edmund Lenthal Swifte's Jewel House apparition" },
+        { "period": "1864", "description": "Soldier's bayonet incident with the alleged Anne Boleyn ghost" }
+      ],
+      "seasonal_patterns": "No clear seasonal pattern; reports cluster around historical anniversaries."
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Norman colonial fortification intended, in the words of William's biographer, to 'overawe the Londoners'.",
+      "earliest_accounts": "Founded 1066 by William the Conqueror; White Tower begun 1078.",
+      "folklore_connections": "Connected to broader European traditions of haunted royal castles, headless-ghost motifs, and execution-site hauntings."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1066", "event": "William the Conqueror begins fortification of London after the Battle of Hastings", "significance": "Founding of the Tower", "source": "Wikipedia, Tower of London" },
+      { "date": "1078", "event": "Construction of the White Tower begins", "significance": "Iconic central keep", "source": "Wikipedia, Tower of London" },
+      { "date": "1483-06", "event": "The Princes in the Tower (Edward V and his brother Richard) are last seen publicly at the Tower", "significance": "One of England's most famous mysteries; bones discovered 1674 attributed to them", "source": "Wikipedia, Tower of London" },
+      { "date": "1535-07-06", "event": "Sir Thomas More executed", "significance": "High-profile Tudor execution", "source": "Wikipedia, Tower of London" },
+      { "date": "1536-05-19", "event": "Anne Boleyn executed at Tower Green", "significance": "Origin of the most-reported Tower ghost", "source": "Wikipedia, Tower of London" },
+      { "date": "1542-02-13", "event": "Catherine Howard executed at Tower Green", "significance": "Major Tudor execution", "source": "Wikipedia, Tower of London" },
+      { "date": "1554-02-12", "event": "Lady Jane Grey executed at Tower Green", "significance": "Execution of the 'Nine Days' Queen", "source": "Wikipedia, Tower of London" },
+      { "date": "1674", "event": "Bones found beneath a staircase in the White Tower; later attributed to the Princes in the Tower and reburied at Westminster Abbey in 1678", "significance": "Material element of the Princes' mystery", "source": "Wikipedia, Tower of London" },
+      { "date": "1817-10", "event": "Edmund Lenthal Swifte, Keeper of the Crown Jewels, reports a luminous cylindrical apparition (a glass tube of bubbling blue fluid) in the Jewel House sitting room while at supper with his wife, sister-in-law, and son", "significance": "One of the most-cited British apparition reports of the 19th century", "source": "Swifte's own published recollection; widely cited in British ghost-lore literature" },
+      { "date": "1864", "event": "Sentry at the White Tower allegedly attempts to bayonet a headless figure on a staircase, taken to be Anne Boleyn; later corroborated by other guards", "significance": "Best-known military Anne Boleyn report; soldier reportedly cleared at court-martial", "source": "Widely cited in British ghost-lore literature" },
+      { "date": "1988", "event": "Tower of London designated a UNESCO World Heritage Site", "significance": "International recognition of historic significance", "source": "UNESCO" }
+    ],
+    "modern_era": "Today the Tower is operated by the independent charity Historic Royal Palaces. Its haunted reputation is part of programmed visitor experience, with Yeomen Warders' tours featuring famous apparition stories. The Tower retains its raven population, which according to legend must remain or 'the kingdom will fall'."
   },
+
   "sightings": {
     "statistics": {
-      "total_documented": 0,
+      "total_documented": 50,
       "verified": 0,
-      "disputed": 0,
-      "debunked": 0
+      "disputed": 30,
+      "debunked": 0,
+      "date_range": { "earliest": "1817-10", "latest": "2026" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "tower-sighting-1817-swifte",
+        "name": "Edmund Lenthal Swifte Jewel House apparition",
+        "date": { "value": "1817-10-01", "precision": "approximate" },
+        "location": {
+          "description": "Sitting room of the Jewel House, Tower of London",
+          "country": "United Kingdom",
+          "region": "Greater London",
+          "locality": "Tower of London",
+          "coordinates": { "latitude": 51.5081, "longitude": -0.0759, "precision": "approximate" }
+        },
+        "witnesses": { "count": 4, "types": ["Edmund Lenthal Swifte (Keeper of the Crown Jewels, 1814-1852)", "Mrs Swifte", "Sister-in-law", "Young son"], "credibility_factors": ["Recorded by a senior official with a long tenure at the Tower", "Multiple family witnesses present"] },
+        "description": "On a Saturday night in October 1817, while at supper, the Swifte family reportedly observed a luminous cylindrical glass tube containing a bubbling blue-and-white fluid glide above the table. Mrs Swifte cried out that it had attempted to seize her; Edmund struck at it with a chair, which passed through the apparition before it receded behind a door and disappeared.",
+        "conditions": { "weather": "October night", "visibility": "Indoor lamplight", "time_of_day": "About midnight", "duration": "Several minutes" },
+        "evidence": ["Swifte's own published written recollection"],
+        "credibility": { "rating": "low", "factors": ["Single primary written source by Swifte himself", "Reported decades after the event in his published memoir"], "notes": "One of the most-cited British apparition cases of the 19th century, though the apparition was not Anne Boleyn." },
+        "sources": ["Edmund Lenthal Swifte, published recollection (mid-19th century)", "Mysterious Britain & Ireland: Tower of London"],
+        "featured": true
+      },
+      {
+        "id": "tower-sighting-1864-sentry",
+        "name": "Headless Anne Boleyn sentry incident",
+        "date": { "value": "1864-01-01", "precision": "approximate" },
+        "location": {
+          "description": "Staircase of the White Tower",
+          "country": "United Kingdom",
+          "region": "Greater London",
+          "locality": "Tower of London",
+          "coordinates": { "latitude": 51.5081, "longitude": -0.0759, "precision": "approximate" }
+        },
+        "witnesses": { "count": 1, "types": ["British Army sentry", "Corroborating fellow guards"], "credibility_factors": ["Court-martial reportedly resulted in acquittal after corroboration"] },
+        "description": "A sentry on night duty at the White Tower allegedly encountered a headless female figure descending a staircase, which he took to be Anne Boleyn. He attempted to challenge and bayonet the figure, his blade passing through it without effect, and fainted from fright. He was nearly court-martialled for sleeping on duty until other guards came forward and stated they had seen the same apparition.",
+        "conditions": { "weather": "Night", "visibility": "Lamplight", "time_of_day": "Night", "duration": "Minutes" },
+        "evidence": ["Court-martial proceedings (cited in 19th-century accounts)"],
+        "credibility": { "rating": "low", "factors": ["Anecdotal", "Late retellings"], "notes": "Best-known military Anne Boleyn report at the Tower." },
+        "sources": ["Mysterious Britain & Ireland: Tower of London", "Various British ghost-lore compilations"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
-    "physical": [],
+    "physical": [
+      {
+        "id": "tower-evidence-princes-bones",
+        "type": "skeletal remains",
+        "name": "Princes in the Tower bones (1674)",
+        "date": "1674",
+        "description": "Two sets of small bones discovered beneath a staircase in the White Tower in 1674. King Charles II ordered them reburied at Westminster Abbey in 1678; they have been long associated with the missing Edward V and Richard, Duke of York.",
+        "location": "White Tower, Tower of London (discovery); Westminster Abbey (current location)",
+        "status": "disputed",
+        "analysis": "Identification has been historically debated; modern DNA analysis has not been authorised by the Crown.",
+        "source": "Wikipedia, Tower of London"
+      }
+    ],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": []
   },
+
   "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "paranormal": [
+      {
+        "name": "Genuine apparitions / hauntings",
+        "description": "The Tower's hauntings are real apparitional phenomena tied to the violent history of the site: executions, imprisonment, and disappearance of the Princes.",
+        "proponents": ["Historic Royal Palaces interpretive tradition", "British paranormal researchers"],
+        "evidence_cited": ["Long history of independent witness reports", "Concentration around named buildings (White Tower, Bloody Tower, Jewel House)"]
+      },
+      {
+        "name": "Stone Tape / place-memory hypothesis",
+        "description": "Hauntings are not conscious entities but environmental recordings of past events that 'play back' under certain conditions.",
+        "proponents": ["T. C. Lethbridge", "Various British psychical-research writers"],
+        "evidence_cited": ["Reports involve repetitive scenes (descending stairs, walking the Green)", "Strong association with specific physical locations"]
+      }
+    ],
+    "scientific": [
+      {
+        "name": "Suggestion and expectation",
+        "description": "The Tower's reputation primes visitors and staff to interpret ordinary stimuli (drafts, lighting changes, footsteps) as paranormal.",
+        "proponents": ["Richard Wiseman", "Hertfordshire-style psychological investigations"],
+        "evidence_cited": ["Documented role of expectancy in paranormal reports", "Wiseman's Hampton Court / Edinburgh South Bridge studies"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Folklore accretion",
+        "description": "Tower ghost stories are largely a literary and tourism tradition built up since the 19th century, with limited primary documentation.",
+        "proponents": ["Historians of British ghost-lore"],
+        "evidence_cited": ["Most 'famous' ghost stories first appear in 19th-century printed compilations rather than contemporary records", "Tourism economy of haunted heritage sites"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "British castle-haunting tradition",
+        "Anne Boleyn ghost-lore",
+        "Princes in the Tower mystery",
+        "Yeomen Warders (Beefeaters) interpretive tradition"
+      ],
+      "stories": [
+        "Anne Boleyn walks Tower Green, sometimes carrying her head",
+        "Sir Walter Raleigh's ghost in the Bloody Tower",
+        "Princes in the Tower seen as small white figures",
+        "Edmund Lenthal Swifte's 1817 Jewel House apparition"
+      ],
+      "beliefs": "Many staff and visitors over centuries have reported apparitions, sounds, smells, and cold spots at named locations within the complex."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
+      "literature": [
+        "Edmund Lenthal Swifte, account of the Jewel House apparition (mid-19th century)",
+        "Numerous British ghost-lore compilations citing the Tower"
+      ],
+      "film_tv": [
+        "Most Haunted (Living TV) - Tower of London episode",
+        "Numerous documentary specials on the Princes in the Tower and Anne Boleyn"
+      ],
       "games": [],
-      "other": []
+      "music": [],
+      "other": [
+        "Yeoman Warder ('Beefeater') ghost tours",
+        "Annual Ceremony of the Keys and other living traditions"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Edmund Lenthal Swifte", "affiliation": "Keeper of the Crown Jewels (1814-1852)", "contribution": "Author of the 1817 Jewel House apparition account", "period": "1814-1852" },
+      { "name": "Historic Royal Palaces curators", "affiliation": "Historic Royal Palaces (charity)", "contribution": "Custodianship and interpretation of the Tower's history", "period": "1989-present" }
+    ],
+    "organizations": [
+      { "name": "Historic Royal Palaces", "url": "https://www.hrp.org.uk", "focus": "Custodian of the Tower of London and other unoccupied royal palaces" },
+      { "name": "UNESCO World Heritage Centre", "url": "https://whc.unesco.org/en/list/488/", "focus": "World Heritage status (1988)" }
+    ],
+    "ongoing_studies": "Active heritage management and historical research; periodic interest in DNA testing of the Princes' bones."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-tower-of-london", "type": "website", "title": "Tower of London", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Tower_of_London", "accessed": "2026-05-07" },
+    { "id": "hrp-tower", "type": "website", "title": "Tower of London", "publication": "Historic Royal Palaces", "url": "https://www.hrp.org.uk/tower-of-london/", "accessed": "2026-05-07" },
+    { "id": "unesco-tower", "type": "website", "title": "Tower of London - UNESCO World Heritage Site (1988)", "publication": "UNESCO", "url": "https://whc.unesco.org/en/list/488/", "accessed": "2026-05-07" },
+    { "id": "mysteriousbritain-tower", "type": "website", "title": "The Tower of London", "publication": "Mysterious Britain & Ireland", "url": "https://www.mysteriousbritain.co.uk/featured-sites/the-tower-of-london/", "accessed": "2026-05-07" }
+  ]
 }

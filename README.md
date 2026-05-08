@@ -1,723 +1,201 @@
-# Tower of London - Britain's Most Haunted Fortress
+# Tower of London
 
-## Category: LOCATION
+> A historic royal castle on the north bank of the Thames in London, founded in 1066 by William the Conqueror. With a millennium of executions, imprisonments, and political violence, it is among the most-reported haunted sites in the United Kingdom.
 
-## Version: 1.0.0
-**Last Updated:** 2026-01-14
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-50-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `tower-of-london` |
+| **Category** | LOCATION |
+| **Subcategory** | Haunted historic site / royal fortress |
+| **First recorded** | 1066 |
+| **Primary range** | A single fixed historic site of approximately 12 acres on the north bank of the Thames, central London |
+| **Status** | active |
+
+---
 ## Overview
 
-The **Tower of London** is a historic castle on the north bank of the River Thames in central London, England. Founded in 1066 as part of the Norman Conquest, the Tower has served as royal residence, fortress, prison, place of execution, armory, treasury, menagerie, and home of the Crown Jewels. With nearly a thousand years of dark history—including countless executions, murders, tortures, and imprisonments—the Tower is considered one of the most haunted locations in Britain, if not the world.
+The Tower of London is a complex of medieval defensive buildings on the north bank of the River Thames in central London, founded in 1066 by William the Conqueror after the Norman Conquest of England. The original White Tower keep was begun in 1078. Over its near-millennial history the Tower has served as royal residence, fortress, prison, place of execution, armoury, treasury, mint, menagerie, and home of the Crown Jewels. While only seven people were ever executed within the castle walls before the 20th century, 112 were executed at neighbouring Tower Hill across roughly four centuries. The Tower is the alleged site of the disappearance of the 'Princes in the Tower' - 12-year-old Edward V and his younger brother Richard, Duke of York - last seen publicly in June 1483. It is widely associated with the ghost of Anne Boleyn (executed 1536), with sightings recorded in the 19th and 20th centuries, and with one of the most-cited British apparition cases of all time: Edmund Lenthal Swifte's 1817 Jewel House encounter. Today managed as a UNESCO World Heritage Site (designated 1988) by Historic Royal Palaces, the Tower is guarded by Yeomen Warders and at least six ravens, and remains one of the most-visited paid attractions in the United Kingdom.
 
-The fortress complex comprises the White Tower (the original Norman keep built by William the Conqueror), multiple towers, walls, and buildings added over centuries. The most famous paranormal phenomena include the ghost of Anne Boleyn (executed 1536), the Princes in the Tower (murdered 1483), and numerous other spectral figures associated with the Tower's grim past. Guards, staff, and visitors have reported apparitions, unexplained sounds, phantom smells, cold spots, and overwhelming feelings of dread in various locations throughout the complex.
+---
+## Names & Aliases
 
-As a UNESCO World Heritage Site attracting over 2.7 million visitors annually, the Tower of London combines genuine historical significance with compelling ghost stories. Whether one believes in the paranormal or not, the weight of history—the centuries of human suffering, political intrigue, and violent death—creates an atmosphere unlike any other historical site in the world.
+| Name | Origin | Meaning |
+|---|---|---|
+| His Majesty's Royal Palace and Fortress of the Tower of London | English | Full official name |
+| The Tower | English |  |
+| White Tower | English | Original Norman keep at the centre of the complex |
+
+## Etymology
+
+- **Origin**: Named for the original White Tower keep built by William the Conqueror beginning in 1078; the larger complex grew around it.
+- **Meaning**: The fortified tower of London
+- **First use**: 11th century
+
+---
+## Related Phenomena
+
+- [Ghosts / apparitions](../ghosts/) — _subset_: Tower hauntings are a subset of ghost-apparition phenomena
+- [Haunted places](../haunted-places/) — _subset_: Notable example of the haunted-place class
+- [White Lady](../white-lady/) — _related_: White Lady apparitions are commonly reported across British castles
+- [Headless apparition motif](../headless-horseman/) — _related_: Headless Anne Boleyn echoes broader headless-ghost motif
+- [Stone Tape Theory](../stone-tape-theory/) — _related_: Frequently invoked to explain Tower hauntings
+
+---
+## Physical Description
+
+- **Morphology**: Concentric medieval castle complex of approximately 12 acres on the north bank of the Thames.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| White Tower (Norman keep) | Central keep begun by William the Conqueror in 1078; the iconic Norman donjon | always |
+| Curtain walls and towers | Two concentric defensive walls with multiple named towers (Bloody Tower, Bell Tower, Beauchamp Tower, etc.) | always |
+| Tower Green | Inner ward where seven private executions took place before the 20th century | always |
+| Crown Jewels in the Jewel House | Reportedly the site of Edmund Lenthal Swifte's 1817 apparition | always |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: variable
+- **Social structure**: variable
+- **Habitat**: historic buildings
+- **Diet**: Not applicable
+
+---
+## Distribution
+
+A single fixed historic site of approximately 12 acres on the north bank of the Thames, central London.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Tower of London | Greater London, United Kingdom |  | 1066-present |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1066 | William the Conqueror begins fortification of London after the Battle of Hastings | Founding of the Tower |
+| 1078 | Construction of the White Tower begins | Iconic central keep |
+| 1483-06 | The Princes in the Tower (Edward V and his brother Richard) are last seen publicly at the Tower | One of England's most famous mysteries; bones discovered 1674 attributed to them |
+| 1535-07-06 | Sir Thomas More executed | High-profile Tudor execution |
+| 1536-05-19 | Anne Boleyn executed at Tower Green | Origin of the most-reported Tower ghost |
+| 1542-02-13 | Catherine Howard executed at Tower Green | Major Tudor execution |
+| 1554-02-12 | Lady Jane Grey executed at Tower Green | Execution of the 'Nine Days' Queen |
+| 1674 | Bones found beneath a staircase in the White Tower; later attributed to the Princes in the Tower and reburied at Westminster Abbey in 1678 | Material element of the Princes' mystery |
+| 1817-10 | Edmund Lenthal Swifte, Keeper of the Crown Jewels, reports a luminous cylindrical apparition (a glass tube of bubbling blue fluid) in the Jewel House sitting room while at supper with his wife, sister-in-law, and son | One of the most-cited British apparition reports of the 19th century |
+| 1864 | Sentry at the White Tower allegedly attempts to bayonet a headless figure on a staircase, taken to be Anne Boleyn; later corroborated by other guards | Best-known military Anne Boleyn report; soldier reportedly cleared at court-martial |
+| 1988 | Tower of London designated a UNESCO World Heritage Site | International recognition of historic significance |
+
+---
+## Notable Sightings
+
+### Edmund Lenthal Swifte Jewel House apparition ⭐
+> **Date**: 1817-10-01  
+> **Location**: Sitting room of the Jewel House, Tower of London  
+> **Witnesses**: 4 (Edmund Lenthal Swifte (Keeper of the Crown Jewels, 1814-1852), Mrs Swifte, Sister-in-law, Young son)  
+> **Evidence**: Swifte's own published written recollection  
+On a Saturday night in October 1817, while at supper, the Swifte family reportedly observed a luminous cylindrical glass tube containing a bubbling blue-and-white fluid glide above the table. Mrs Swifte cried out that it had attempted to seize her; Edmund struck at it with a chair, which passed through the apparition before it receded behind a door and disappeared.
+**Credibility**: low — One of the most-cited British apparition cases of the 19th century, though the apparition was not Anne Boleyn.
+**Sources**: Edmund Lenthal Swifte, published recollection (mid-19th century); Mysterious Britain & Ireland: Tower of London
 
 ---
 
-## Historical Background
-
-### Foundation and Early History
-
-**1066-1100: Norman Construction:**
-- **1066:** William the Conqueror defeats Harold at Hastings
-- **1078:** Construction begins on White Tower (central keep)
-- **Purpose:** Intimidate and control London's Saxon population
-- **Design:** Norman military architecture, defensible fortress
-- **1100:** White Tower essentially complete
-- Serves as royal residence and symbol of Norman power
-
-**Medieval Period (1100-1500):**
-- Multiple expansions under various kings
-- Richard I (Lionheart) expands defenses (1189-1199)
-- Henry III creates concentric castle design (1220s-1272)
-- Edward I completes outer wall and moat (1272-1307)
-- Becomes primary London fortress and royal residence
-- Also serves as prison for high-status prisoners
-
-### Tudor Era - Peak of Dark History
-
-**1485-1603:**
-The Tudor period represents the Tower's bloodiest chapter:
-
-**Notable Imprisonments and Executions:**
-- Sir Thomas More (1535, executed)
-- Anne Boleyn (1536, executed)
-- Thomas Cromwell (1540, executed)
-- Catherine Howard (1542, executed)
-- Lady Jane Grey (1554, executed)
-- Thomas Wyatt (1554, executed after rebellion)
-- Robert Devereux, Earl of Essex (1601, executed)
-
-**Methods of Execution:**
-- Beheading on Tower Green (private, for nobility)
-- Public execution on Tower Hill (outside walls)
-- Torture in dungeons and torture chambers
-- Imprisonment in harsh conditions leading to death
-
-**The Princes in the Tower (1483):**
-- Edward V (age 12) and Richard, Duke of York (age 9)
-- Sons of Edward IV, imprisoned by their uncle Richard III
-- Disappeared, presumed murdered
-- Bodies possibly found 1674 (still debated)
-- One of history's most famous unsolved mysteries
-
-### Later History
-
-**Stuart Period (1603-1714):**
-- Continued use as prison
-- Guy Fawkes interrogated (Gunpowder Plot, 1605)
-- Executions continue but less frequent
-
-**18th-19th Centuries:**
-- Gradual transition from active fortress/prison
-- Opens to public as tourist attraction (1800s)
-- Home of Crown Jewels becomes primary draw
-- Military use declines
-
-**20th Century-Present:**
-- World Wars: Brief military use, spies executed
-- 1940s: Serious bombing damage during Blitz
-- Post-war: Fully established as museum and tourist site
-- UNESCO World Heritage Site (1988)
-- 2.7+ million visitors annually
-- Yeoman Warders (Beefeaters) guard and guide
-- Royal Armories housed here until 1995
+### Headless Anne Boleyn sentry incident ⭐
+> **Date**: 1864-01-01  
+> **Location**: Staircase of the White Tower  
+> **Witnesses**: 1 (British Army sentry, Corroborating fellow guards)  
+> **Evidence**: Court-martial proceedings (cited in 19th-century accounts)  
+A sentry on night duty at the White Tower allegedly encountered a headless female figure descending a staircase, which he took to be Anne Boleyn. He attempted to challenge and bayonet the figure, his blade passing through it without effect, and fainted from fright. He was nearly court-martialled for sleeping on duty until other guards came forward and stated they had seen the same apparition.
+**Credibility**: low — Best-known military Anne Boleyn report at the Tower.
+**Sources**: Mysterious Britain & Ireland: Tower of London; Various British ghost-lore compilations
 
 ---
 
-## The Tower's Ghosts and Hauntings
 
-### Anne Boleyn - The Most Famous Ghost
+## Evidence
 
-**Historical Background:**
-- Second wife of Henry VIII
-- Queen of England 1533-1536
-- Mother of Elizabeth I
-- Accused of adultery, treason, incest (false charges)
-- **Executed May 19, 1536** - beheaded on Tower Green
-- Buried in Chapel of St. Peter ad Vincula
+### Physical
 
-**Apparition Sightings:**
-
-**Headless Ghost:**
-- Most commonly reported near site of execution (Tower Green)
-- Also seen in White Tower
-- Apparition walks carrying head under arm
-- Or seen as headless figure
-- Wearing Tudor-era gown (often white or gray)
-- Appears and vanishes suddenly
-
-**Chapel of St. Peter ad Vincula:**
-- Multiple sightings in chapel where she's buried
-- 1864: Guard witnessed procession of figures in Tudor dress
-- Leading figure identified as Anne Boleyn
-- Figures walked through chapel, then faded
-- Other guards report seeing her through chapel windows
-- Figure kneeling at altar
-
-**Tower Green:**
-- Executioner's block site (replica now present)
-- Guards and visitors report female figure appearing
-- Sense of sadness and despair in area
-- Cold spots
-- Unexplained lights
-- Feeling of being watched
-
-**Characteristics:**
-- Silent apparition
-- Does not interact with witnesses
-- Appears briefly then vanishes
-- Associated with anniversary of execution (May 19)
-- Some reports include scent of roses or perfume
-
-### The Princes in the Tower
-
-**Historical Background:**
-- Edward V (boy king, 12 years old)
-- Richard, Duke of York (his brother, 9 years old)
-- Imprisoned in Tower by uncle Richard III (1483)
-- Disappeared, never seen again
-- Presumed murdered (by whom, still debated)
-- **1674:** Bones found under staircase in White Tower
-- Possibly the princes, reburied in Westminster Abbey
-- Historical controversy continues
-
-**Hauntings:**
-
-**Bloody Tower (Garden Tower):**
-- Where princes likely held
-- Two small figures in white nightgowns seen
-- Holding hands
-- Standing at top of stairs or in chamber
-- Appear frightened, sad
-- Vanish when approached
-- Children's voices heard
-- Crying and whispering
-
-**White Tower:**
-- Where bones discovered (under staircase)
-- Apparitions of two children
-- Walking down stairs hand-in-hand
-- Looking terrified
-- Disappear midway down
-- Cold spots on staircase
-- Feeling of overwhelming sadness
-
-**Guard Accounts:**
-- Yeoman Warders (Beefeaters) report encounters over centuries
-- Seen mostly at twilight or night
-- Some guards refuse to walk certain areas alone at night
-
-### Lady Jane Grey
-
-**Historical Background:**
-- "Nine Days' Queen" (1553)
-- Great-granddaughter of Henry VII
-- Proclaimed queen by supporters, overthrown by Mary I
-- Imprisoned in Tower
-- **Executed February 12, 1554** - age 16 or 17
-- Beheaded on Tower Green
-
-**Hauntings:**
-
-**Tower Green:**
-- Apparition of young woman in white
-- Long dark hair, Tudor dress
-- Appears near execution site
-- Face sorrowful, resigned
-- Silent, motionless
-- Vanishes gradually
-
-**Special Sightings:**
-- **February 12, 1957:** Guard witnessed apparition at exact anniversary
-- White-robed figure on Tower Green
-- Identified as likely Lady Jane Grey
-- Appeared solid, then transparent, then gone
-
-**Characteristics:**
-- Less frequently seen than Anne Boleyn
-- Associated with anniversaries
-- Represents innocence and tragedy
-- Young, sad appearance
-
-### Sir Walter Raleigh
-
-**Historical Background:**
-- Explorer, writer, courtier
-- Imprisoned in Bloody Tower (1603-1616)
-- 13 years imprisonment
-- Released, then re-arrested
-- **Executed October 29, 1618**
-
-**Hauntings:**
-
-**Bloody Tower:**
-- Apparition in Elizabethan dress
-- Pacing quarters where imprisoned
-- Appears deep in thought
-- Sometimes at writing desk
-- Does not acknowledge witnesses
-
-**Ramparts:**
-- Figure walking at night
-- Pacing as if deep in thought
-- Wearing period clothing
-- Vanishes near Bloody Tower
-
-**Characteristics:**
-- Intellectual, contemplative appearance
-- Associated with his imprisonment location
-- Residual haunting (repeating pattern)
-
-### Margaret Pole, Countess of Salisbury
-
-**Historical Background:**
-- Noblewoman, age 67 at execution
-- Political prisoner
-- **Executed May 27, 1541**
-- Horrific botched execution:
-  - Refused to lay head on block
-  - Said "So should traitors do and I am none"
-  - Tried to run
-  - Executioner struck her 11 times with axe
-  - One of most brutal executions on record
-
-**Hauntings:**
-
-**Tower Green:**
-- Re-enactment of execution witnessed
-- Ghostly executioner chasing female figure
-- Striking with axe repeatedly
-- Screaming and pleading heard
-- Full apparitional replay
-- Most disturbing haunting reported
-
-**Characteristics:**
-- Residual haunting (replays event)
-- Violent, disturbing
-- Rare but multiple reports
-- Anniversary date associated
-
-### The White Lady
-
-**Identity Unknown:**
-- Possibly Anne Boleyn (often associated)
-- Or Catherine Howard (Henry VIII's 5th wife, also executed)
-- Or combination/archetype
-
-**Sightings:**
-
-**White Tower:**
-- Female figure in white
-- Appears in windows
-- Waving or beckoning
-- Guards report seeing from outside
-- Empty when investigated
-
-**Throughout Complex:**
-- Misty white figure
-- Gliding rather than walking
-- No facial features visible sometimes
-- Strong perfume scent accompanies
-- Overwhelming sadness felt by witnesses
-
-**Yeoman Warder Accounts:**
-- Regular sightings over decades
-- Often seen from distance
-- Appears at various locations
-- Some guards believe protective spirit
-
-### The Bloody Tower
-
-**Multiple Hauntings:**
-In addition to Princes and Raleigh:
-
-**Thomas a Becket:**
-- Archbishop murdered 1170 (not at Tower, Canterbury)
-- Legend: Ghost appears during Tower construction
-- Halted building through supernatural means
-- Chapel built to appease him
-- Periodic sightings in old chapel
-
-**Animal Apparitions:**
-- Bear (from royal menagerie)
-- Large dog or wolf
-- Shadow forms
-
-### The Salt Tower
-
-**Hauntings:**
-- Scratching sounds on walls
-- Prisoners carved graffiti (still visible)
-- Feeling of claustrophobia and despair
-- Unexplained footsteps
-- Sense of presence
-
-### The Beauchamp Tower
-
-**Prisoners' Tower:**
-- Housed many condemned prisoners
-- Extensive wall carvings by prisoners
-- Heavy atmosphere reported
-- Footsteps in empty tower
-- Whispers in various languages
-- Cold spots
-- Feelings of deep despair
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Princes in the Tower bones (1674) | 1674 | Two sets of small bones discovered beneath a staircase in the White Tower in 1674. King Charles II ordered them reburied at Westminster Abbey in 1678; they have been long associated with the missing Edward V and Richard, Duke of York. | disputed |
 
 ---
+## Theories & Explanations
 
-## Paranormal Phenomena Reported
+### Paranormal / Cryptozoological
 
-### Apparitions and Ghosts
+**Genuine apparitions / hauntings** _(Historic Royal Palaces interpretive tradition, British paranormal researchers)_
 
-**Full-Body Apparitions:**
-- Clear, detailed figures in period clothing
-- Interact with environment (walk, pace, kneel)
-- Sometimes solid-appearing, sometimes translucent
-- Vanish suddenly or fade away
-- Aware or unaware of witnesses (varies)
+The Tower's hauntings are real apparitional phenomena tied to the violent history of the site: executions, imprisonment, and disappearance of the Princes.
 
-**Shadow Figures:**
-- Dark humanoid shapes
-- Lacking detail
-- Moving through halls and rooms
-- Blocking light
-- Causing fear/unease
+**Stone Tape / place-memory hypothesis** _(T. C. Lethbridge, Various British psychical-research writers)_
 
-**Partial Apparitions:**
-- Floating heads
-- Dismembered body parts
-- Hands, faces in windows
-- Particularly Anne Boleyn's head
+Hauntings are not conscious entities but environmental recordings of past events that 'play back' under certain conditions.
 
-### Auditory Phenomena
+### Scientific
 
-**Voices:**
-- Whispers in empty rooms
-- Conversations in unknown languages
-- Screaming (especially Tower Green area)
-- Crying (children, women)
-- Prayers or chanting
+**Suggestion and expectation** _(Richard Wiseman, Hertfordshire-style psychological investigations)_
 
-**Footsteps:**
-- Heavy boots on stone floors
-- Light running feet (children)
-- Pacing in empty rooms
-- Ascending/descending stairs with no one present
+The Tower's reputation primes visitors and staff to interpret ordinary stimuli (drafts, lighting changes, footsteps) as paranormal.
 
-**Other Sounds:**
-- Swords clashing
-- Doors slamming
-- Chains rattling
-- Keys jingling
-- Knock on doors
+### Skeptical
 
-### Physical Sensations
+**Folklore accretion** _(Historians of British ghost-lore)_
 
-**Temperature:**
-- Sudden cold spots (dramatic temperature drops)
-- Localized chills
-- Breath visible in warm rooms
+Tower ghost stories are largely a literary and tourism tradition built up since the 19th century, with limited primary documentation.
 
-**Touch:**
-- Unseen hands touching shoulders, arms
-- Feeling of being pushed or pulled
-- Hair pulled or lifted
-- Clothing tugged
 
-**Atmospheric:**
-- Oppressive feelings
-- Sensation of being watched
-- Overwhelming dread or sadness
-- Difficulty breathing in certain areas
-- Heaviness in the air
+## Popular Culture
 
-### Olfactory Phenomena
+**Literature**: Edmund Lenthal Swifte, account of the Jewel House apparition (mid-19th century); Numerous British ghost-lore compilations citing the Tower
 
-**Smells:**
-- Roses or perfume (Anne Boleyn)
-- Incense or candle wax
-- Damp and decay (stronger than physical explanation)
-- Gunpowder
-- Blood (Tower Green)
+**Film / TV**: Most Haunted (Living TV) - Tower of London episode; Numerous documentary specials on the Princes in the Tower and Anne Boleyn
 
-### Visual Phenomena
-
-**Lights:**
-- Unexplained lights in windows
-- Torches when electricity off
-- Glowing figures
-- Orbs (debated, often lens artifacts)
-
-**Mists and Fogs:**
-- Localized fog formations indoors
-- Mist that forms shapes
-- Dissipates instantly
+**Other**: Yeoman Warder ('Beefeater') ghost tours; Annual Ceremony of the Keys and other living traditions
 
 ---
+## Research
 
-## Witness Accounts
+### Researchers
 
-### Yeoman Warders (Beefeaters)
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Edmund Lenthal Swifte | Keeper of the Crown Jewels (1814-1852) | Author of the 1817 Jewel House apparition account | 1814-1852 |
+| Historic Royal Palaces curators | Historic Royal Palaces (charity) | Custodianship and interpretation of the Tower's history | 1989-present |
 
-**Credibility:**
-- Live on-site at Tower
-- Years or decades of service
-- Experienced with building
-- Multiple independent reports
-- Military backgrounds (trusted witnesses)
+### Organizations
 
-**Common Experiences:**
-- See apparitions during night rounds
-- Hear unexplained sounds regularly
-- Refuse to enter certain areas alone
-- Some transferred due to experiences
-- Stories passed through generations
+- [Historic Royal Palaces](https://www.hrp.org.uk) — Custodian of the Tower of London and other unoccupied royal palaces
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/488/) — World Heritage status (1988)
 
-**Notable Guard Accounts:**
-
-**1864 - Guard at Jewel House:**
-- Witnessed ghostly procession in Chapel of St. Peter ad Vincula
-- Figures in Tudor dress led by woman matching Anne Boleyn
-- Walked through chapel and disappeared
-
-**1960s - Guard Encounter:**
-- Confronted "intruder" on stairs
-- Figure in Elizabethan dress
-- Walked through guard
-- Guard felt icy cold, overwhelming terror
-- Figure vanished
-
-**20th Century - Multiple Guards:**
-- Children's voices in Bloody Tower
-- White Lady in various locations
-- Feelings of dread in specific towers
-- Unseen presences
-
-### Visitors and Staff
-
-**Tourist Reports:**
-- Thousands of visitors annually
-- Regular paranormal reports
-- Photographs with "anomalies"
-- Feelings of unease in certain areas
-- Some dramatic experiences (fainting, terror)
-
-**Maintenance and Staff:**
-- Cleaners and maintenance workers report phenomena
-- Early morning/late evening experiences
-- Sound of footsteps following them
-- Objects moved
-- Doors locked/unlocked
+Active heritage management and historical research; periodic interest in DNA testing of the Princes' bones.
 
 ---
+## Sources
 
-## Scientific and Skeptical Perspectives
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Rational Explanations
 
-**Psychological Factors:**
-- **Suggestion:** Knowing Tower's history influences perception
-- **Expectation:** Visitors expect to experience something
-- **Pattern Recognition:** Seeing faces/figures in shadows, stonework
-- **Pareidolia:** Brain creating meaning from randomness
-- **Confirmation Bias:** Remembering hits, forgetting misses
+## How to Report a Sighting
 
-**Environmental Factors:**
-- **Infrasound:** Low-frequency sound waves (below human hearing)
-  - Caused by wind, traffic, building resonance
-  - Creates feelings of unease, chills, sense of presence
-  - Can cause visual disturbances
-- **Electromagnetic Fields:** Electrical systems, earth's magnetic field
-  - Can cause hallucinations, feelings of being watched
-  - Temporal lobe sensitivity
-- **Carbon Monoxide:** Old buildings, poor ventilation (historically)
-  - Causes hallucinations, feeling of dread
-  - Less relevant now but possible historically
-
-**Architectural Factors:**
-- **Acoustics:** Stone architecture amplifies and distorts sounds
-  - Footsteps echo and seem to come from nowhere
-  - Voices carry through stone channels
-  - Wind creates moaning, whistle sounds
-- **Light and Shadow:** Medieval windows, torchlight (historical)
-  - Creates dramatic shadows
-  - Moving lights create illusions
-  - Reflections in old glass
-- **Age and Decay:** Settlement, temperature changes
-  - Building creaks and groans
-  - Doors shift and open/close
-  - Drafts create cold spots
-
-**Historical Factors:**
-- **Embellishment:** Stories grow over centuries
-- **Tourism:** Economic incentive to maintain ghost stories
-- **Victorian Influence:** 19th century spiritualism added layers
-- **Media:** TV shows and books reinforce expectations
-
-### Paranormal Perspectives
-
-**Evidence Cited:**
-
-**Multiple Independent Witnesses:**
-- Same apparitions described by different people
-- Who don't know each other or previous stories
-- Across centuries
-
-**Credible Observers:**
-- Military guards (Yeoman Warders)
-- Police
-- Historians and curators
-- Not prone to fantasy
-
-**Consistency:**
-- Same locations repeatedly haunted
-- Same figures seen across time
-- Descriptions match historical figures
-
-**Historical Correlation:**
-- Hauntings where violent deaths occurred
-- Apparitions match known historical figures
-- Anniversary phenomena
-
-**Unexplained Phenomena:**
-- Experiences that can't be easily explained
-- Photographic "anomalies" (debated)
-- Electronic equipment malfunctions
-- Animals reacting to unseen presences
-
-### Middle Ground
-
-**Cultural Memory:**
-- Building "soaked" in history and emotion
-- Psychological impact of knowing what occurred
-- Collective unconscious/cultural memory
-- Creates powerful experience even if not "supernatural"
-
-**Respect for Experience:**
-- Witnesses genuinely experience something
-- Whether paranormal or psychological, experience is real
-- Dismissing entirely disrespects testimony
-- Truth likely between extremes
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
+## License
 
-## Investigations and Research
-
-### Paranormal Investigations
-
-**Groups Investigated:**
-- Various paranormal research teams (20th-21st century)
-- TV shows and documentaries
-- Amateur and professional investigators
-
-**Methods:**
-- EMF (electromagnetic field) meters
-- Temperature sensors
-- Infrared cameras
-- Audio recording equipment
-- Motion sensors
-- Video surveillance
-
-**Results:**
-- Ambiguous findings
-- Some unexplained phenomena recorded
-- Most explainable through natural causes
-- No definitive proof of paranormal
-- But no complete debunking either
-
-### Historical Research
-
-**Academic Study:**
-- Historians document actual events
-- Separate fact from legend
-- Some "ghosts" historically accurate
-- Others added over time
-- Context important for understanding claims
-
-**Archaeological:**
-- Excavations reveal Tower's history
-- Bones found (Princes, others)
-- Evidence of torture and execution
-- Material culture of imprisonment
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Impact and Significance
-
-### Tourism and Economics
-
-**Major Attraction:**
-- Over 2.7 million visitors annually
-- Ghost tours popular
-- "Haunted" reputation boosts tourism
-- Economic benefit to London
-- Balancing historical site with entertainment
-
-### Cultural Impact
-
-**In Popular Culture:**
-- Countless books, films, TV shows
-- Ghost stories in anthologies
-- Setting for fiction
-- Educational programs
-- Part of British cultural heritage
-
-**National Identity:**
-- Tower represents British history
-- Ghost stories part of folklore
-- Pride and fascination
-- Connection to past
-
-### Psychological and Social Functions
-
-**Why Ghost Stories Matter:**
-- Connect present to past
-- Make history tangible and emotional
-- Process historical trauma
-- Create sense of continuity
-- Entertainment and wonder
-
----
-
-## Current Status
-
-**Today's Tower:**
-- Active historic site and museum
-- Home to Crown Jewels
-- Yeoman Warders still in residence
-- Regular tours (including "ghost tours")
-- Ongoing preservation and research
-- Paranormal reports continue
-
-**Access:**
-- Open to public daily
-- Guided tours available
-- Special after-hours tours
-- Educational programs
-- Events and exhibitions
-
----
-
-## Sources and References
-
-1. Historic Royal Palaces official documentation and archives.
-2. Abbott, Geoffrey. "Ghosts of the Tower of London." Hendon Publishing, 1980.
-3. Whitechapel, Simon. "Haunted London." Tempus Publishing, 2007.
-4. Underwood, Peter. "This Haunted Isle." Javelin Books, 1986.
-5. Williamson, David. "The Tower of London: A 900 Year History." 2016.
-6. Younghusband, Major General Sir George. "The Tower of London." Herbert Jenkins, 1924.
-7. Green, John Richard. "Tower of London." 1901.
-8. Turner, Edward. "The Haunted Tower: Ghosts of Britain's Most Infamous Fortress." 2012.
-9. Yeoman Warders' documented accounts (various dates, Historic Royal Palaces archives).
-10. Parliamentary archives (execution records, imprisonment documentation).
-11. Chronicles and letters from Tudor period.
-12. Archaeological reports from Tower excavations.
-13. Architectural surveys and historical analyses.
-14. Visitor survey data and reported experiences.
-15. Jones, Nigel. "Tower: An Epic History of the Tower of London." St. Martin's Press, 2012.
-16. Bayley, John. "The History and Antiquities of the Tower of London." 1821.
-17. Victorian-era accounts and spiritualist reports.
-18. News archives (London Times, etc.) documenting sightings.
-19. "Most Haunted" and similar TV program documentation.
-20. British paranormal research organizations' reports.
-21. Historical Society of London publications.
-22. British Library collections on Tower history.
-23. National Archives execution and imprisonment records.
-24. Weir, Alison. "The Princes in the Tower." Ballantine Books, 1992.
-25. Starkey, David. "Six Wives: The Queens of Henry VIII." HarperCollins, 2003.
-26. Fraser, Antonia. "The Wives of Henry VIII." Knopf, 1992.
-27. Documentary evidence of Anne Boleyn's trial and execution.
-28. Primary sources on Lady Jane Grey.
-29. Raleigh's writings from imprisonment.
-30. Margaret Pole execution contemporary accounts.
-31. Forensic analysis of bones found in White Tower (1674 discovery).
-32. Medieval torture methods documentation.
-33. Tower's role in English history (comprehensive histories).
-34. UNESCO World Heritage Site designation documentation.
-35. Conservation and preservation reports.
-36. Infrasound research and effects on humans.
-37. Electromagnetic field effects on perception studies.
-38. Environmental psychology of haunted locations.
-39. Acoustics research in stone architecture.
-40. Psychological studies of expectation and suggestion.
-41. Pareidolia and pattern recognition research.
-42. Cultural memory and collective trauma studies.
-43. Tourism economics of haunted locations.
-44. Folklore and legend transmission studies.
-45. Victorian spiritualism and influence on ghost traditions.
-46. Contemporary paranormal investigation methodology.
-47. Photography analysis (alleged paranormal images).
-48. Video and audio evidence analysis.
-49. Skeptical Inquirer articles on Tower hauntings.
-50. Committee for Skeptical Inquiry reports.
-51. British Society for Psychical Research investigations.
-52. Academic papers on trauma and place memory.
-53. Architectural history of Tower complex.
-54. Medieval and Tudor London historical context.
-55. Comparative studies of other haunted historic sites.
-
----
-
-*The Tower of London stands as a testament to nearly a millennium of English history—power, politics, passion, and death. Whether its ghosts are genuine spirits, psychological phenomena, or cultural memories, the Tower remains a place where past and present intersect in powerful, often unsettling ways. To walk its ancient stones is to walk through centuries of human drama, and perhaps, to encounter echoes of those long-departed souls whose stories ended within its formidable walls.*
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
